@@ -30,7 +30,9 @@
       },
       "currency": {
         "type": "string"
-      }
-    }
-  }
+        "type": "string",
+        "enum" ["RUB", "TRY"]
+}
+}
+}
 }
